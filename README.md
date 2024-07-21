@@ -5,7 +5,7 @@
 
 Hi, I'm a developer from Germany. I’m passionate about creating diverse projects, particularly Discord bots.
 
-👨‍🎓 Student in 12th grade, working towards Abitur
-💻 Passionate about computer science and programming
-🤖 Owner of the Vulpo Discord bot, verified and on over 2k servers
+👨‍🎓 Student in 12th grade, working towards Abitur<br>
+💻 Passionate about computer science and programming<br>
+🤖 Owner of the Vulpo Discord bot, verified and on over 2k servers<br>
 
