@@ -15,6 +15,9 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## GitHub Stats
 
+![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dark&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+
+
 ### Default Theme
 ![GitHub Stats - Default](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=default&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
 
