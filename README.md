@@ -1,8 +1,9 @@
 ## Hi there, I'm Vincent
 
-[![Watch me on Discord](https://img.shields.io/badge/Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/824378909985341451)
-[![Vulpo](https://img.shields.io/badge/Vulpo-F57C00?style=for-the-badge&logo=bot&logoColor=white)](https://vulpo-bot.de)
-[![Discord](https://img.shields.io/badge/My_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/49jD3VXksp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vncnt.lrz) 
+[![Discord User](https://img.shields.io/badge/Me-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/824378909985341451)
+[![Discord Server](https://img.shields.io/badge/My_Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/49jD3VXksp)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vncnt.lrz)
+[![Vulpo Bot](https://img.shields.io/badge/Vulpo_Bot-%23FFA500.svg?logo=fox&logoColor=white)](https://vulpo-bot.de)
 
 [![](https://visitcount.itsvg.in/api?id=Vinc135&icon=1&color=0)](https://visitcount.itsvg.in)
 
