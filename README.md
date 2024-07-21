@@ -11,7 +11,7 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ##💻 My Tools
 
-[![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code.png)](https://code.visualstudio.com) 
+[![VSCode]([https://img.icons8.com/ios/50/000000/visual-studio-code.png](https://skillicons.dev/icons?i=all))](https://code.visualstudio.com) 
 [![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.icons8.com/ios/50/000000/python.png)](https://www.python.org/)
 [![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)](https://www.mongodb.com/)
