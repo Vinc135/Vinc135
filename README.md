@@ -13,21 +13,19 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/) [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/) [![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/) [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 
-## Vincents GitHub Stats
-
-## Vincents GitHub Stats
+## GitHub Stats
 
 ### Default Theme
-![GitHub Stats - Default](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=default&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+![GitHub Stats - Default](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=default&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
 
 ### Dark Theme
-![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dark&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dark&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
 
 ### Light Theme
-![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=light&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=light&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
 
 ### Radical Theme
-![GitHub Stats - Radical](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=radical&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+![GitHub Stats - Radical](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=radical&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
 
 ### Merko Theme
 ![GitHub Stats - Merko](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=merko&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
