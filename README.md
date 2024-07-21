@@ -15,6 +15,6 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_title=true&hide_border=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinc135&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinc135&layout=compact&hide_title=true&hide_border=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_title=true&hide_border=true&theme=gruvbox)
