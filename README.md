@@ -15,47 +15,4 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## GitHub Stats
 
-![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dark&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-
-### Default Theme
-![GitHub Stats - Default](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=default&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
-
-### Dark Theme
-![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dark&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
-
-### Light Theme
-![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=light&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
-
-### Radical Theme
-![GitHub Stats - Radical](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=radical&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=true)
-
-### Merko Theme
-![GitHub Stats - Merko](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=merko&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Gruvbox Theme
-![GitHub Stats - Gruvbox](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=gruvbox&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Tokyo Night Theme
-![GitHub Stats - Tokyo Night](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=tokyonight&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### One Dark Theme
-![GitHub Stats - One Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=onedark&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Cobalt Theme
-![GitHub Stats - Cobalt](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=cobalt&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Synthwave Theme
-![GitHub Stats - Synthwave](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=synthwave&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### High Contrast Theme
-![GitHub Stats - High Contrast](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=highcontrast&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Dracula Theme
-![GitHub Stats - Dracula](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dracula&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Solarized Dark Theme
-![GitHub Stats - Solarized Dark](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=solarized-dark&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
-
-### Solarized Light Theme
-![GitHub Stats - Solarized Light](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=solarized-light&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
+![GitHub Stats - Tokyo Night](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=tokyonight&count_private=true&show_icons=true&hide=contribs&hide_title=false&hide_border=false)
