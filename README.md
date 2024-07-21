@@ -15,4 +15,6 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## Vincents GitHub Stats
 
-<img alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Vinc135&amp;theme=dracula&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" style="max-width: 100%;">
+## Vincents GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=dracula&count_private=true&show_icons=true&hide=contribs&hide_title=true&hide_border=true)
