@@ -16,3 +16,4 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vinc135&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vinc135&theme=codeSTACKr&hide_border=false)<br/>
+[![Discord Status](https://discord.com/api/guilds/824378909985341451/widget.png?style=banner1)](https://discord.com/users/824378909985341451)
