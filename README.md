@@ -11,18 +11,4 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## My Tools
 
-[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)  
-[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)  
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)  
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/)  
-[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)  
-[![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com/)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)  
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)  
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/) [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/) [![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/) [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
