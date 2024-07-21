@@ -15,4 +15,4 @@ Hi, I'm a developer from Germany. I’m passionate about creating diverse projec
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinc135&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinc135&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=dark&border_color=white&border_radius=15&title_color=orange&icon_color=orange)
