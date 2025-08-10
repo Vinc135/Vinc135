@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Vinc135&icon=1&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hi, I'm a developer from Germany. I’m passionate about creating diverse projects, particularly Discord bots.<br><br>👨‍🎓 Student in 12th grade, working towards Abitur<br>💻 Passionate about computer science and programming<br>🤖 Owner of the Vulpo Discord bot, verified and on over 2k servers
+Hi, I'm a developer from Germany. I’m passionate about creating diverse projects, particularly Discord bots.<br><br>👨‍🎓 Dual student of computer science.<br>💻 Passionate about computer science, programming and math.<br>🤖 Owner of the Vulpo Discord bot, verified and on over 2k servers
 
 # 💻 Tech Stack:
 
